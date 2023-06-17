@@ -1,8 +1,8 @@
 {
   "name": "khash",
   "version": "0.2.8",
-  "repo": "goodcleanfun/khash",
+  "repo": "attractivechaos/klib",
   "keywords": ["hashing", "hashmap", "generic"],
   "license": "MIT",
-  "src": ["src/klib.h"]
+  "src": ["src/khash.h"]
 }
