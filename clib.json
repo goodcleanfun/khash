@@ -1,7 +1,7 @@
 {
   "name": "khash",
   "version": "0.2.8",
-  "repo": "attractivechaos/klib",
+  "repo": "git://github.com/attractivechaos/klib",
   "keywords": ["hashing", "hashmap", "generic"],
   "license": "MIT",
   "src": ["khash.h"]
