@@ -1,8 +1,9 @@
 {
   "name": "khash",
-  "version": "0.2.8",
-  "repo": "git://github.com/attractivechaos/klib",
-  "keywords": ["hashing", "hashmap", "generic"],
+  "version": "master",
+  "description": "Generic hash table with open addressing.",
+  "repo": "attractivechaos/klib",
+  "keywords": ["sorting", "sort", "generic"],
   "license": "MIT",
   "src": ["khash.h"]
 }
