@@ -4,5 +4,5 @@
   "repo": "attractivechaos/klib",
   "keywords": ["hashing", "hashmap", "generic"],
   "license": "MIT",
-  "src": ["src/khash.h"]
+  "src": ["khash.h"]
 }
